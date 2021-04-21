@@ -1,0 +1,8 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://gb-ih2.anonymous.news-letter-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.gb-ih2.anonymous.news-letter-app.exp.direct",
+  "ngrokPid": 4064
+}
